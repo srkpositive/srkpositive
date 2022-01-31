@@ -7,3 +7,7 @@
 <img 
    src="https://github-readme-stats.vercel.app/api?username=srkpositive&show_icons=true&theme=tokyonight" 
 />
+
+
+- name: GitHub - Activity - Readme
+  uses: jamesgeorge007/github-activity-readme@v0.3.6
